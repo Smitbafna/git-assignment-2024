@@ -6,3 +6,5 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Palak Gupta](https://github.com/Palakfs)
 - [Aditya Karwa](https://github.com/AdityaK-github)
 - [Mansi Panchal](https://github.com/mansipanchal11)
+- [Ayush Dhar Dubey](https://github.com/AyushDharDubey)
+- [Rayyan Khan](https://github.com/rkcoder101)
