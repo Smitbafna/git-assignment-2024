@@ -15,6 +15,6 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Ayush Dhar Dubey](https://github.com/AyushDharDubey)
 - [Rayyan Khan](https://github.com/rkcoder101)
 - [Akshit Mandial](https://github.com/Akshit517)
-- [Akshit Mandial](https://github.com/Akshit517)
 - [Ronit Chawla](https://github.com/rtb-12)
 - [Lakshita](https://github.com/lakshita10341)
+- [Adarsh Maurya](https://github.com/AdarshM-07)
