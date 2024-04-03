@@ -6,6 +6,7 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Dhairya Singhal](https://github.com/Bhed811)
 - [Palak Gupta](https://github.com/Palakfs)
 - [Aditya Karwa](https://github.com/AdityaK-github)
+- [Mansi Panchal](https://github.com/mansipanchal11)
 - [Jai Bhadu](https://github.com/jshishimaru)
 - [Ayush Dhar Dubey](https://github.com/AyushDharDubey)
 - [Rayyan Khan](https://github.com/rkcoder101)
@@ -17,4 +18,3 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Ronit Chawla](https://github.com/rtb-12)
 - [Lakshita](https://github.com/lakshita10341)
 - [Adarsh Maurya](https://github.com/AdarshM-07)
-
