@@ -17,3 +17,5 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Ronit Chawla](https://github.com/rtb-12)
 - [Lakshita](https://github.com/lakshita10341)
 - [Adarsh Maurya](https://github.com/AdarshM-07)
+- [Aaryan Jain](https://github.com/IronJam11)
+
