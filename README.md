@@ -6,6 +6,7 @@ Add you name and github profile here. Have fun with MERGE CONFLICTS (if you were
 - [Dhairya Singhal](https://github.com/Bhed811)
 - [Palak Gupta](https://github.com/Palakfs)
 - [Aditya Karwa](https://github.com/AdityaK-github)
+- [Yash Gupta](https://github.com/Yash-g2310)
 - [Mansi Panchal](https://github.com/mansipanchal11)
 - [Jai Bhadu](https://github.com/jshishimaru)
 - [Ayush Dhar Dubey](https://github.com/AyushDharDubey)
